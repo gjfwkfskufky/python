@@ -16,3 +16,4 @@ for views in blog_views:
 
 print("\nTotal number of views:", total_views)
 print("Number of Trending posts:", trending_count)
+
