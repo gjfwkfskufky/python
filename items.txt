@@ -1,0 +1,2 @@
+books
+& C:/Users/SHAIMA/AppData/Local/Programs/Python/Python312/python.exe d:/python/d13cw.py
